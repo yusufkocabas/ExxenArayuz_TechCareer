@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="subtitle_color">#9b9b9b</color>
+    <color name="background_color">#111111</color>
+    <color name="button_color">#ffcb04</color>
+    <color name="play_button_color">#BBffcb04</color>
+    <color name="more_icon_color">#464646</color>
+    <color name="duration_color">#c7c4c4</color>
+    <color name="icon_background_color">#202020</color>
+</resources>
